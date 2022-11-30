@@ -1,0 +1,10 @@
+//Archivo de configuracion de normas de slink 
+{
+  "rules": {
+      // Override our default settings just for this directory
+      "eqeqeq": "warn",
+      "strict": "off",
+      "quotes": ["warn","double"],
+      "no-duplicate-case":"error" //en un objeto no pueden haber dos atributos con el mismo nombre
+  }
+}

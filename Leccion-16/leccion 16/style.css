@@ -1,0 +1,24 @@
+.seccion {
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: cadetblue;
+}
+
+.parrafo {
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: hotpink;
+}
+
+.parrafo.draggin {
+  opacity: 0.3rem;
+}
+
+.delete-element {
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: cadetblue;
+}

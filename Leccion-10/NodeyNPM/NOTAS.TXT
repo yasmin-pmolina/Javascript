@@ -1,0 +1,7 @@
+npm ES EL GESTOR DE PAQUETES DE NODE
+
+NPM permite instalar/actualizar e importar librerias 
+
+Como ejemplo vamos usar axios: permite realizar llamados hhp a diferentes servidores
+get/pos....
+
