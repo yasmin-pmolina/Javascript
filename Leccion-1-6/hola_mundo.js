@@ -1,1 +1,0 @@
-console.log("Hello word, today is the best day of my life");
